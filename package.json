@@ -3,3 +3,4 @@
     "workspaces": {
 "packages": [
             "packages/lib/shared",
+ "packages/lib/crypto",
