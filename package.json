@@ -4,3 +4,4 @@
 "packages": [
             "packages/lib/shared",
  "packages/lib/crypto",
+ "packages/lib/profile",
