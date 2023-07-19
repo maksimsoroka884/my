@@ -5,3 +5,5 @@
             "packages/lib/shared",
  "packages/lib/crypto",
  "packages/lib/profile",
+ "packages/lib/messaging",
+            "packages/lib/delivery",
