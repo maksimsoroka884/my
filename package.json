@@ -7,3 +7,4 @@
  "packages/lib/profile",
  "packages/lib/messaging",
             "packages/lib/delivery",
+ "packages/lib/storage",
