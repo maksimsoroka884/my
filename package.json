@@ -8,3 +8,5 @@
  "packages/lib/messaging",
             "packages/lib/delivery",
  "packages/lib/storage",
+ "packages/lib/delivery-api",
+            "packages/lib/offchainResolver-api",
