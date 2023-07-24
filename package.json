@@ -13,3 +13,5 @@
 "packages/lib/billboard-api",
             "packages/backend",
  "packages/billboard-client",
+  "packages/react",
+            "packages/web",
