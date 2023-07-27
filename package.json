@@ -17,3 +17,5 @@
             "packages/web",
  "packages/billboard-widget",
     "packages/integration-tests",
+  "packages/offchain-resolver"
+        ],
