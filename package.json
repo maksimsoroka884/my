@@ -21,6 +21,7 @@
         ],
     "nohoist": [
             "**/react",
-
+   "**/react-dom"
+        ]
 
         
