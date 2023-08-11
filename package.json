@@ -40,3 +40,4 @@
   ]
     },
     "scripts": {
+"docker:up": "cd packages/backend && docker-compose up -d",
