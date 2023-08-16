@@ -44,3 +44,5 @@
  "build": " yarn workspaces foreach -pt run build",
  "start": "yarn workspace dm3-backend start",
  "resolver": "yarn workspace dm3-offchain-resolver-backend start",
+"lint": "eslint '*/**/*.{js,ts,tsx}' --fix",
+        "format": "prettier --write '*/**/*.{js,ts,tsx,json}'",
