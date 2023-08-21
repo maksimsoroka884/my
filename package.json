@@ -50,3 +50,5 @@
         "prepare": "husky install",
  "test": "yarn workspaces foreach -p run test"
     },
+ "packageManager": "yarn@3.5.1",
+    "resolutions": {
