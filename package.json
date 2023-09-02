@@ -14,3 +14,5 @@
             "packages/backend",
 "packages/billboard-client",
             "packages/react",
+ "packages/web",
+            "packages/billboard-widget",
