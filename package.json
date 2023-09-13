@@ -23,3 +23,6 @@
             "**/react",
   "**/react-dom"
         ]
+ },
+    "devDependencies": {
+        "eslint": "^8.17.0",
