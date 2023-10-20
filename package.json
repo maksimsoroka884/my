@@ -42,3 +42,5 @@
     "scripts": {
         "docker:up": "cd packages/backend && docker-compose up -d",
 "build": " yarn workspaces foreach -pt run build",
+  "start": "yarn workspace dm3-backend start",
+        "resolver": "yarn workspace dm3-offchain-resolver-backend start",
