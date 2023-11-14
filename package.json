@@ -35,3 +35,9 @@
   },
     "lint-staged": {
         "*.{js,ts,tsx,json}": [
+   "prettier --write",
+            "eslint --fix"
+        ]
+    },
+    "scripts": {
+        "docker:up": "cd packages/backend && docker-compose up -d",
