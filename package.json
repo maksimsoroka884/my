@@ -46,3 +46,4 @@
  "resolver": "yarn workspace dm3-offchain-resolver-backend start",
    "lint": "eslint '*/**/*.{js,ts,tsx}' --fix",
     "format": "prettier --write '*/**/*.{js,ts,tsx,json}'",
+"format:check": "prettier --check '*/**/*.{js,ts,tsx,json}'",
