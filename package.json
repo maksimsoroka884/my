@@ -47,3 +47,5 @@
    "lint": "eslint '*/**/*.{js,ts,tsx}' --fix",
     "format": "prettier --write '*/**/*.{js,ts,tsx,json}'",
 "format:check": "prettier --check '*/**/*.{js,ts,tsx,json}'",
+ "prepare": "husky install",
+        "test": "yarn workspaces foreach -p run test"
