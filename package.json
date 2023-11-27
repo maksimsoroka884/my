@@ -55,3 +55,4 @@
 "autoprefixer": "10.4.5"
  },
     "dependencies": {
+  "react-circular-progressbar": "^2.1.0",
