@@ -16,3 +16,4 @@
       "packages/react",
             "packages/web",
   "packages/billboard-widget",
+ "packages/integration-tests",
