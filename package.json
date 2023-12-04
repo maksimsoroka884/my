@@ -20,3 +20,8 @@
  "packages/offchain-resolver"
         ],
         "nohoist": [
+   "**/react",
+            "**/react-dom"
+        ]
+    },
+    "devDependencies": {
